@@ -5,5 +5,5 @@
 </template>
 
 <script src="./main.js"></script>
-<style src="./layout.scss" lang="scss" scoped></style>
+<style src="./layout.less" lang="less" scoped></style>
 
