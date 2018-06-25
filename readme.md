@@ -11,9 +11,9 @@
     |-- readme.md
     |-- part
         |-- 子组件或内部页面模块
-        |-- index.vue
-        |-- main.js
-        |-- layout.less
+            |-- index.vue
+            |-- main.js
+            |-- layout.less
 ```
 
 ## 使用
